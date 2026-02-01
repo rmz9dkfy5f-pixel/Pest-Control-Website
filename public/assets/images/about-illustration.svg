@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="520" viewBox="0 0 900 520" role="img" aria-label="Warm, natural abstract illustration">
+  <rect width="900" height="520" rx="32" fill="#F3EFE7"/>
+  <path d="M120 370 C220 260 360 260 460 370 C560 480 700 480 800 370" fill="none" stroke="#8FAF9A" stroke-width="18" stroke-linecap="round" opacity="0.85"/>
+  <path d="M140 320 C240 210 360 210 460 320 C560 430 700 430 780 320" fill="none" stroke="#D9B88F" stroke-width="14" stroke-linecap="round" opacity="0.75"/>
+  <circle cx="190" cy="160" r="54" fill="#6D8B77" opacity="0.85"/>
+  <circle cx="720" cy="150" r="66" fill="#B58A5A" opacity="0.70"/>
+  <rect x="320" y="120" width="260" height="180" rx="26" fill="#3E4A43" opacity="0.10"/>
+  <rect x="350" y="150" width="200" height="120" rx="22" fill="#2B312D" opacity="0.08"/>
+</svg>

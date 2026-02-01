@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="520" height="140" viewBox="0 0 520 140" role="img" aria-label="Titanium Barrier Pest Control logo">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#8FAF9A"/>
+      <stop offset="1" stop-color="#3E4A43"/>
+    </linearGradient>
+  </defs>
+  <rect x="0" y="0" width="520" height="140" rx="22" fill="#F3EFE7"/>
+  <g transform="translate(26,26)">
+    <path d="M44 2 L82 24 L82 64 L44 86 L6 64 L6 24 Z" fill="url(#g)" stroke="#2B312D" stroke-width="2"/>
+    <path d="M44 18 L68 32 L68 56 L44 70 L20 56 L20 32 Z" fill="#F3EFE7" opacity="0.92"/>
+    <path d="M44 20 L64 32 L44 44 L24 32 Z" fill="#8FAF9A" opacity="0.95"/>
+    <path d="M44 44 L64 32 L64 56 L44 68 Z" fill="#6D8B77"/>
+    <path d="M44 44 L24 32 L24 56 L44 68 Z" fill="#3E4A43" opacity="0.92"/>
+  </g>
+  <g transform="translate(130,34)">
+    <text x="0" y="34" font-family="ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Arial" font-size="34" fill="#2B312D" font-weight="700">
+      Titanium Barrier
+    </text>
+    <text x="0" y="70" font-family="ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Arial" font-size="22" fill="#58655E" font-weight="600">
+      Pest Control
+    </text>
+    <text x="0" y="96" font-family="ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Arial" font-size="14" fill="#6C786F">
+      Safe • Reliable • Long-term Prevention
+    </text>
+  </g>
+</svg>

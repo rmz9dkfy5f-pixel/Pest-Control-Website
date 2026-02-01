@@ -1,0 +1,18 @@
+.card{
+  padding: 18px;
+  border-radius: 24px;
+  background: rgba(255,255,255,0.82);
+  border: 1px solid rgba(43,49,45,0.14);
+  box-shadow: var(--shadow-soft);
+  display:flex;
+  flex-direction: column;
+  gap: 10px;
+  transition: transform 220ms var(--ease), box-shadow 220ms var(--ease);
+}
+.card:hover{ transform: translateY(-2px); box-shadow: var(--shadow); }
+.stars{ display:flex; gap: 6px; }
+.on{ color: rgba(43,49,45,0.9); }
+.off{ color: rgba(43,49,45,0.25); }
+.quote{ margin: 0; color: rgba(43,49,45,0.80); font-weight: 650; }
+.meta{ display:flex; align-items: baseline; gap: 10px; }
+.city{ color: rgba(43,49,45,0.65); font-weight: 700; }

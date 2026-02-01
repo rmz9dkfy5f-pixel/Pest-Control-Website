@@ -1,0 +1,29 @@
+.wrap{ display:grid; gap: 10px; }
+.item{
+  border-radius: 20px;
+  background: rgba(255,255,255,0.78);
+  border: 1px solid rgba(43,49,45,0.14);
+  box-shadow: var(--shadow-soft);
+  overflow: hidden;
+}
+.q{
+  width: 100%;
+  text-align: left;
+  padding: 14px 14px;
+  background: transparent;
+  border: none;
+  font-weight: 900;
+  color: rgba(43,49,45,0.86);
+  cursor: pointer;
+  display:flex;
+  align-items:center;
+  justify-content: space-between;
+  gap: 12px;
+}
+.q:focus-visible{ outline:none; box-shadow: var(--ring); }
+.caret{ color: rgba(43,49,45,0.65); font-size: 18px; }
+.a{
+  padding: 0 14px 14px 14px;
+  color: rgba(43,49,45,0.78);
+  font-weight: 650;
+}

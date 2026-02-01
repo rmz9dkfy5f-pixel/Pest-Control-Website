@@ -1,0 +1,19 @@
+.section{
+  padding: 64px 0;
+}
+.header{
+  max-width: 780px;
+  margin-bottom: 22px;
+}
+.title{
+  font-size: clamp(24px, 2.4vw, 34px);
+  margin-top: 10px;
+}
+.subtitle{
+  margin-top: 10px;
+  color: rgba(43,49,45,0.78);
+  font-size: 16px;
+}
+@media (max-width: 720px){
+  .section{ padding: 52px 0; }
+}
