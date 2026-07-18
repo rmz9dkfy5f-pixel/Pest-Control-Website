@@ -1,4 +1,25 @@
+@AGENTS.md
+
 # Titanium Barrier Pest Control — Claude Code
+
+## Agent Operating Framework (Project Starter Kit V3.4)
+
+Before substantial work: confirm `docs/governance/PROJECT_CLASSIFICATION.md`, follow
+`MODEL_SELECTION_GATE.md`, and read `docs/governance/AGENT_RUN_CONTRACT.md`. In VS Code, compare
+the Claude Code and Codex execution paths before choosing a primary executor.
+
+V3.4 skills for repeatable project work:
+
+- `/v34-execution-loop` — implementation, bugfix, refactor, audit remediation, repo cleanup.
+- `/v34-migration-loop` — existing-project migration into V3.4.
+- `/v34-production-readiness` — production readiness checks.
+- `/v34-context-eval-loop` — prompt, context, eval, and failure analysis.
+
+Keep this file concise. Persistent project facts belong in the relevant doc, not here:
+architecture → `docs/project/ARCHITECTURE.md`, current state → `docs/project/STATUS.md`,
+decisions → `docs/project/DECISION_LOG.md`, known risks → `docs/governance/PROJECT_RISK_REGISTER.md`.
+
+---
 
 ## ⚠ Pending Before This Project Is Complete
 
